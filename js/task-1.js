@@ -17,4 +17,4 @@ function isEnoughCapacity(products, containerSize) {
         }    
 }
 
-console.log(isEnoughCapacity ({ apples: 2, grapes: 3, carrots: 1 }, 8));
+console.log(isEnoughCapacity ({ apples: 2, grapes: 3, carrots: 1 }, 3));
